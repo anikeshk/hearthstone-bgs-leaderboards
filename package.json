@@ -1,0 +1,27 @@
+{
+  "name": "hearthstone-bgs-leaderboards",
+  "version": "1.0.0",
+  "description": "Script to pull data from Hearthstone's Battlegrounds Leaderboards website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikeshk/hearthstone-bgs-leaderboards.git"
+  },
+  "keywords": [
+    "hearthstone",
+    "bgs"
+  ],
+  "author": "anikeshk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anikeshk/hearthstone-bgs-leaderboards/issues"
+  },
+  "homepage": "https://github.com/anikeshk/hearthstone-bgs-leaderboards#readme",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "commander": "^10.0.0"
+  }
+}
